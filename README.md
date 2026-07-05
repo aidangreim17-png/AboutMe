@@ -1,4 +1,9 @@
 # AboutMe
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=for-the-badge)
 Aspiring IT &amp; Cybersecurity Professional | Building enterprise homelabs | Windows Server • Active Directory • Docker • Linux
 
 # Hi, I'm Aidan 👋
@@ -26,3 +31,5 @@ Windows Server • Active Directory • Ubuntu Linux • Docker • pfSense • 
 - Studying for CompTIA Network+
 - Building real-world IT support and sysadmin skills
 - Working toward my first professional IT role
+
+![Profile Views](https://komarev.com/ghpvc/?username=aidangreim17-png)
